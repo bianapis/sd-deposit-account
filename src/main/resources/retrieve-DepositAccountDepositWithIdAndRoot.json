@@ -1,0 +1,13 @@
+{
+  "depositAccountNumber" : "depositAccountNumber",
+  "productInstanceReference" : "PIR716609",
+  "amount" : "250",
+  "payeeReference" : "PR773457",
+  "payeeProductInstanceReference" : "PPIR734618",
+  "depositAccountDepositHandlingTaskRecord" : {},
+  "payeeBankReference" : "PBR744382",
+  "currency" : "USD",
+  "depositAccountDepositHandlingTaskReference" : "DADHTR717420",
+  "valueDate" : "09-22-2018",
+  "depositTransactionReference" : "DTR704643"
+}

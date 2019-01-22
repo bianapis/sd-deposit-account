@@ -1,0 +1,10 @@
+{
+  "depositAccountFeeApplicationTaskReference" : "DAFATR701609",
+  "productInstanceReference" : "PIR716609",
+  "feeConfiguration" : "feeConfiguration",
+  "feeAccrualAmount" : "USD 250",
+  "feeCharge" : "USD 250",
+  "depositAccountFeeApplicationTaskRecord" : {},
+  "feeType" : "feeType",
+  "feeProjectionsCommitments" : "feeProjectionsCommitments"
+}

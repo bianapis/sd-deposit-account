@@ -1,0 +1,22 @@
+{
+  "date" : "09-22-2018",
+  "taxReference" : "TR779569",
+  "depositAccountReportingTaskRecord" : {},
+  "depositAccountTerm" : "depositAccountTerm",
+  "partyReference" : "PR773457",
+  "customerCommentary" : "customerCommentary",
+  "depositAccountAmount" : "250",
+  "bankBranchLocationReference" : "BBR777763",
+  "depositAccountNumber" : "depositAccountNumber",
+  "accountStatus" : "pre-opened",
+  "productInstanceReference" : "PIR716609",
+  "involvedPartyObligationEntitlement" : "involvedPartyObligationEntitlement",
+  "dateType" : "account open",
+  "depositAccountType" : "depositAccountType",
+  "involvedPartyReference" : "IPR725523",
+  "customerReference" : "CR700965",
+  "depositAccountreortingTaskReference" : "DARR725284",
+  "depositAccountCurrency" : "USD",
+  "customerAgreementReference" : "CAR702820",
+  "depositAccountInterestTerms" : "depositAccountInterestTerms"
+}

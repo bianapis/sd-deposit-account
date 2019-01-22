@@ -1,0 +1,17 @@
+{
+  "depositAccountStatementTaskReference" : "DASTR725804",
+  "statementPeriod" : "statementPeriod",
+  "statementTransactionType" : "statementTransactionType",
+  "transactionDateTime" : "09-22-2018",
+  "statementInstanceReference" : "SIR702188",
+  "transactionPrincipleAmount" : "USD 250",
+  "transactionType" : "transactionType",
+  "productInstanceReference" : "PIR716609",
+  "balanceType" : "current position",
+  "transactionRecordReference" : "TRR712936",
+  "transactionObligation" : "purchased service",
+  "balance" : "balance",
+  "statementType" : "balance",
+  "depositAccountStatementTaskRecord" : {},
+  "transactionCounterparty" : "payee"
+}

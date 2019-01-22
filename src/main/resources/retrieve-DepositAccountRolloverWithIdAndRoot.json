@@ -1,0 +1,10 @@
+{
+  "productInstanceReference" : "PIR716609",
+  "correspondenceReference" : "CR700965",
+  "depositAccountRolloverHandlingTaskRecord" : {},
+  "depositAccountRolloverHandlingTaskReference" : "DARHTR731678",
+  "correspondenceContent" : "correspondenceContent",
+  "documentReference" : "DR713115",
+  "documentContent" : "documentContent",
+  "depositAccountRolloverRecord" : {}
+}

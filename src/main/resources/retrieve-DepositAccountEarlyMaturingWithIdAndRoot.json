@@ -1,0 +1,20 @@
+{
+  "date" : "09-22-2018",
+  "payerProductInstanceReference" : "PPIR734618",
+  "correspondenceReference" : "CR700965",
+  "amount" : "250",
+  "depositAccountEarlyMaturingTaskRecord" : {},
+  "payeeReference" : "PR773457",
+  "payeeProductInstanceReference" : "PPIR734618",
+  "payeeBankReference" : "PBR744382",
+  "correspondenceContent" : "correspondenceContent",
+  "documentContent" : "documentContent",
+  "depositAccountEarlyMaturingTaskReference" : "DAEMTR771353",
+  "earlyMaturingSettlementPaymentTransactionReference" : "EMSPTR740713",
+  "productInstanceReference" : "PIR716609",
+  "earlyMaturingPenalty" : "earlyMaturingPenalty",
+  "dateType" : "order",
+  "documentReference" : "DR713115",
+  "currency" : "USD",
+  "paymentMechanism" : "ACH"
+}

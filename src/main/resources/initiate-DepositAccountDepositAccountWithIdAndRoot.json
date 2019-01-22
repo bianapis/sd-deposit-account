@@ -1,0 +1,17 @@
+{
+  "date" : "09-22-2018",
+  "taxReference" : "TR779569",
+  "depositAccountTerm" : "depositAccountTerm",
+  "customerCommentary" : "customerCommentary",
+  "depositAccountAmount" : "250",
+  "bankBranchLocationReference" : "BBR777763",
+  "depositAccountNumber" : "depositAccountNumber",
+  "accountStatus" : "pre-opened",
+  "productInstanceReference" : "PIR716609",
+  "dateType" : "account open",
+  "depositAccountType" : "depositAccountType",
+  "customerReference" : "CR700965",
+  "depositAccountCurrency" : "USD",
+  "customerAgreementReference" : "CAR702820",
+  "depositAccountInterestTerms" : "depositAccountInterestTerms"
+}
